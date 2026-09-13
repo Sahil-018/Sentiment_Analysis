@@ -51,6 +51,18 @@ The project, implemented in **`Task_4.ipynb`**, focuses on building an end-to-en
    * Plots confusion matrix heatmaps for each model.
    * Generates a sentiment class distribution bar chart using Seaborn's `viridis` palette.
    * Creates individual WordClouds for each sentiment category (**Positive**, **Negative**, **Neutral**, **Irrelevant**).
+  
+   * ---
+
+## Copyright and Usage
+
+Copyright © 2026 Sahil Kale.  
+All rights reserved.
+
+This project is shared on GitHub for portfolio and internship evaluation
+purposes only. No permission is granted to reuse, redistribute, modify,
+publish, or use this work commercially without prior written permission
+from Sahil Kale.
 
 7. **Artifact Persistence:**
    * Exports the final trained classifiers and the fitted TF-IDF vectorizer to disk as `sentiment_models.joblib`.
